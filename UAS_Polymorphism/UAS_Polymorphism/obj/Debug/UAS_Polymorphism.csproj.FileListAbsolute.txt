@@ -1,0 +1,6 @@
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Polymorphism\UAS_Polymorphism\bin\Debug\UAS_Polymorphism.exe.config
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Polymorphism\UAS_Polymorphism\obj\Debug\UAS_Polymorphism.csprojResolveAssemblyReference.cache
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Polymorphism\UAS_Polymorphism\bin\Debug\UAS_Polymorphism.exe
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Polymorphism\UAS_Polymorphism\bin\Debug\UAS_Polymorphism.pdb
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Polymorphism\UAS_Polymorphism\obj\Debug\UAS_Polymorphism.exe
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Polymorphism\UAS_Polymorphism\obj\Debug\UAS_Polymorphism.pdb
